@@ -19,7 +19,7 @@ document.querySelector('.check').addEventListener('click', function(number){
     number = document.querySelector('.guess').value;
 
 })
-
+asldkjf
 const secretNumber = Math.trunc(Math.random() * 20) + 1;
 console.log(secretNumber);
 
